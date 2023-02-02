@@ -6,8 +6,6 @@ import Signup from "../components/Signup";
 
 function Homepage (){
     const history = useHistory();
-
-
     return(
        <Container maxW='xl' centerContent>
         <Box
